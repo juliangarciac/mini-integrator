@@ -1,0 +1,47 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+conda-meta/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Local database files
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Prometheus multiprocess files
+# =========================
+metrics_data/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+Thumbs.db
+.DS_Store
