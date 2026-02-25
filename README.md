@@ -25,6 +25,7 @@ Endpoints consumidos:
 
 ## Arquitectura
 
+```
 mini-integrator/
 │
 ├── src/
@@ -42,6 +43,7 @@ mini-integrator/
 ├── .env.example
 ├── README.md
 └── .gitignore
+```
 
 ---
 
